@@ -1,14 +1,16 @@
 name: fjerez_mlabbe
 channels:
-	- conda-forge
-	- defaults
+  - conda-forge
+  - defaults
 dependencies:
-	- python=3.9.0
-	- pym
-	- arviz
-	- numpy
-	- pandas
-	- matplotlib
-	- seaborn
-	- scikit-learn
-	- pip	
+  - python=3.9.0
+  - pymc
+  - pip:
+    - arviz
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - scikit-learn
+    - openpyxl
+    - bambi
