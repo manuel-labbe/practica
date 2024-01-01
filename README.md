@@ -1,2 +1,2 @@
 # practica I 
-Bayes Causal Inference
+Bayesian Model
