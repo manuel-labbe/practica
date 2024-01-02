@@ -7,3 +7,6 @@ https://goldinlocks.github.io/Bayesian-logistic-regression-with-pymc3/
 https://faculty.wcas.northwestern.edu/lchrist/course/CIED_2012/bayesian.pdf
 
 https://www.pymc-labs.com/blog-posts/out-of-model-predictions-with-pymc/
+
+https://bayesiancomputationbook.com/notebooks/chp_09.html
+
