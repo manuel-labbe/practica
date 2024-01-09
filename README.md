@@ -1,4 +1,4 @@
-# practica I 
+# Proyecto remocion de masas  
 Bayesian Model
 
 proyecto-remociones-en-masa/  
